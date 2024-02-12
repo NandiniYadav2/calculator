@@ -19,4 +19,4 @@
         name: docker
         state: started
     - name: Running container
-      shell: docker run -it -d --name calculator nandiniyadav2/calculator
+      shell: docker run -it -d --name calculatr nandiniyadav2/calculator
